@@ -21,6 +21,7 @@
 
 .full {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
 }
 
@@ -60,3 +61,4 @@
   color: rgb(216, 118, 13);
   font-weight: 900;
 }
+
