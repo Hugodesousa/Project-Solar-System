@@ -1,14 +1,9 @@
 .body {
   background-image: url('https://i.pinimg.com/originals/e2/fb/0b/e2fb0b2ac9b7e82275eacc8c2ee9c846.jpg');
   background-size: cover;
-  color: aliceblue;
   font-family: Impact , Haettenschweiler , sans-serif;
   padding-top: 30px;
 
-}
-
-.App {
-  text-align: center;
 }
 
 .card {
@@ -31,6 +26,7 @@
 
 .title {
   font-size: 60px;
+  font-weight: 900;
   text-align: center;
 
 }
@@ -49,11 +45,18 @@
   font-size: 20px;
   margin: 10px;
   padding: 15px;
+  text-align: center;
   width: 200px;
+  justify-content: center;
 }
 
 .mission {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.destiny {
+  color: rgb(216, 118, 13);
+  font-weight: 900;
 }

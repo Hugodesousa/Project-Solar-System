@@ -15,7 +15,7 @@ class MissionCard extends React.Component {
         <p data-testid="mission-country">
           {country}
         </p>
-        <p data-testid="mission-destination">
+        <p data-testid="mission-destination" className="destiny">
           {destination}
         </p>
       </div>
