@@ -16,7 +16,7 @@ Front-end:
 #
 ## Executando aplicação
  
-* Para o site direto no navegador:
+* Para o acessar o site direto no navegador:
  
  ```
   https://hugodesousa.github.io/Project-Solar-System/ 
